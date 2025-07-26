@@ -15,34 +15,34 @@ The dataset used is the famous Titanic: Machine Learning from Disaster dataset p
 
 It includes features like:
 
-PassengerId
-Pclass (Ticket Class)
-Name
-Sex
-Age
-SibSp (Siblings/Spouses Aboard)
-Parch (Parents/Children Aboard)
-Ticket
-Fare
-Cabin
-Embarked
-Survived (Target variable)
+PassengerId,
+Pclass (Ticket Class),
+Name,
+Sex,
+Age,
+SibSp (Siblings/Spouses Aboard),
+Parch (Parents/Children Aboard),
+Ticket,
+Fare,
+Cabin,
+Embarked,
+Survived (Target variable),
 
 ⚙️ Technologies Used
-Python 
-Pandas
-NumPy
-Matplotlib / Seaborn
-Scikit-learn
-Jupyter Notebook
+Python ,
+Pandas,
+NumPy,
+Matplotlib / Seaborn,
+Scikit-learn,
+Jupyter Notebook,
 
 🧠 ML Algorithms Applied
-Logistic Regression
-K-Nearest Neighbors
-Decision Tree
-Random Forest
-Support Vector Machine
-(Optional) XGBoost
+Logistic Regression,
+K-Nearest Neighbors,
+Decision Tree,
+Random Forest,
+Support Vector Machine,
+(Optional) XGBoost,
 
 🔍 Insights
 Females had a higher survival rate than males.
